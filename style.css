@@ -31,11 +31,11 @@ body {
     cursor: pointer;
   }
   
-{
+button:hover{
     background-color: #ccc;
   }
   
-  button:active {
+   {
     background-color: #aaa;
   }
   
