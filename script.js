@@ -1,3 +1,6 @@
+var d=prompt("Enter Your Name");
+var i=(d+"'s Calculator");
+document.getElementById("i").innerHTML=i;
 let display = document.getElementById('display');
 let buttons = document.querySelectorAll('button');
 
