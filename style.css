@@ -1,0 +1,67 @@
+body {
+
+    font-family: Arial, sans-serif;
+  }
+  
+  #display {
+    width: 350px;
+    height: 50px;
+    font-size: 30px;
+    text-align: right;
+    padding: 10px;
+    border: 1px solid #000000;
+    padding-left: 10px;
+  }
+  
+  table {
+    border-collapse: collapse;
+  }
+  
+  td {
+    padding: 10px;
+  }
+  
+  button {
+    width: 60px;
+    height: 60px;
+    font-size: 24px;
+    border: none;
+    border-radius: 10px;
+    background-color: #f0f0f0;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #ccc;
+  }
+  
+  button:active {
+    background-color: #aaa;
+  }
+  
+  .num {
+    background-color: #fff;
+  }
+  .nu {
+    background-color: #ff9900;
+  }
+  
+  .op {
+    background-color: #ff9900;
+  }
+  
+  .ac {
+    background-color: #ff9900;
+  }
+  
+  .del {
+    background-color: #ff9900;
+  }
+  
+  .eq {
+    background-color: #ff9900;
+    width: 100px;
+  }
+  #a{
+    margin-left: px;
+  }
